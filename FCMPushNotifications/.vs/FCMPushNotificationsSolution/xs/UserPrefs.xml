@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9B558A6E-A04A-4FFF-89DB-2F76025F74AE}|Default">
+  <MonoDevelop.Ide.ItemProperties.FCMPushNotifications.Android TriggeredFromHotReload="False" PreferredExecutionTarget="Android.12b2a32f" />
+  <MonoDevelop.Ide.ItemProperties.FCMPushNotifications.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FCMPushNotifications.Android/MyFirebaseMessagingService.cs">
+    <Files>
+      <File FileName="FCMPushNotifications.Android/MainActivity.cs" Line="27" Column="72" />
+      <File FileName="FCMPushNotifications.Android/MyFirebaseMessagingService.cs" Line="23" Column="89" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FCMPushNotificationsSolution" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ishtiaqahmed/Projects/FCMPushNotifications/FCMPushNotifications.Android/MyFirebaseMessagingService.cs" relfile="FCMPushNotifications.Android/MyFirebaseMessagingService.cs" line="15" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
